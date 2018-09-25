@@ -1,0 +1,22 @@
+PODS:
+  - JPVideoPlayer (3.1.1)
+  - SDWebImage (5.0.0-beta3):
+    - SDWebImage/Core (= 5.0.0-beta3)
+  - SDWebImage/Core (5.0.0-beta3)
+
+DEPENDENCIES:
+  - JPVideoPlayer (~> 3.1.1)
+  - SDWebImage (~> 5.0.0-beta3)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JPVideoPlayer
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  JPVideoPlayer: 234c2fc5c9dfd67b969a5dd8233815eb872472c6
+  SDWebImage: e52654ceef9fdc19f4c612d64a5b6d3f05dd81a4
+
+PODFILE CHECKSUM: 538cf6ab87da4054eda63711b0f19618a567a8a3
+
+COCOAPODS: 1.5.3
